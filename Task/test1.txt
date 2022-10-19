@@ -1,0 +1,6 @@
+/signin/usernamerecovery?continue=https://mail.google.com/mail/u/0/&dsh=S-1408987820:1666113957144989&emr=1&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://mail.google.com/mail/u/0/&ifkv=AQDHYWrON8UpMtm7491-qFXMGe4ArPV7APJ39iQi80m4m7IfB2JpCdA0lKfU5iJ0dKh4MRvdwvD3&osid=1&service=mail
+https://support.google.com/accounts?p=signin_privatebrowsing&hl=en-US
+/SignUp?cc=IN&continue=https://mail.google.com/mail/u/0/&dsh=S-1408987820:1666113957144989&emr=1&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://mail.google.com/mail/u/0/&ifkv=AQDHYWrON8UpMtm7491-qFXMGe4ArPV7APJ39iQi80m4m7IfB2JpCdA0lKfU5iJ0dKh4MRvdwvD3&osid=1&service=mail
+https://support.google.com/accounts?hl=en-US&p=account_iph
+https://accounts.google.com/TOS?loc=IN&hl=en-US&privacy=true
+https://accounts.google.com/TOS?loc=IN&hl=en-US
